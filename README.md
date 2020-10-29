@@ -11,13 +11,21 @@ Steps to Install ProM tool to your destop
 
 1. Download the PromTool on your machine first according to operating system and system configuration 
 
-     for Windows users 
-
+    For Windows users 
       find the link to download ProMtool for 64 bits and 32 bits as well 
 
-      [click here to navigate to download page](http://www.promtools.org/doku.php?id=prom69)
+
+ For 64 bit find the file with name 
+     For Windows installer with 64 bit JRE8 
+     EXE / 98,427 KB
+ 
+ For 32 bit find the file with name 
+     For Windows installer with 32 bit JRE8
+     EXE / 94,321 KB
+   
+  [Click Here!](http://www.promtools.org/doku.php?id=prom69)
         
-      For windows operating system download the Installer from above link or post the below link in the browser tab and download the installer.
+   For windows operating system download the Installer from above link or post the below link in the browser tab and download the installer.
 
 ```
 http://www.promtools.org/doku.php?id=prom69
@@ -25,12 +33,12 @@ http://www.promtools.org/doku.php?id=prom69
 
 
 
-   For Mac and Linux users 
-        
+  For Mac and Linux users 
    Find the link to download ProMTool for Mac as well as Linux systems 
-
-
-   [click here to navigate to download page](http://www.promtools.org/doku.php?id=prom69)
+   
+   For Mac operating system 
+      
+   [Click Here!](http://www.promtools.org/doku.php?id=prom69)
         
    For mac and Linux users Download one of the compressed archieves listed in following or the above link and unpack the archeiev in some folder.
         
@@ -55,6 +63,13 @@ Here are the Links where you can download Java 8 Supported to your systems
       
    to download Java for Windows users 
    [Click Here!](https://www.oracle.com/java/technologies/javase/javase-jdk8-downloads.html)
+   
+   
+ Installing ProM 6.9 packages 
+ 
+ The downloads which we do from above links contains only frameworks. These do not contain ProM 6.9 packages that contains vast mejority of plugins. Once ProM 6.9 has been downloaded and installed. The packages can be installed from 6.9 package manager. 
+ 
+ [Click Here!](google.com) For step by step document on package installation guide. 
 
 
 
