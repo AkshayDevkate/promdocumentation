@@ -5,7 +5,7 @@
 Getting Started with opensourse ProM tool 
 
 The Latest ProM 6.9 is targeted at researchers.
-If you want to use End user release that contains less functionalities (it will not contain the latest research prototypes that ProM 6.9 does contain). then [click Here!](https://github.com/AkshayDevkate/promdocumentation/edit/main/README.md) to navigate to getting started with [ProM Lite 1.2](http://www.promtools.org/doku.php?id=promlite12)
+If you want to use End user release that contains less functionalities (it will not contain the latest research prototypes that ProM 6.9 does contain). Than navigate to getting started with [ProM Lite 1.2](https://github.com/AkshayDevkate/promdocumentation/edit/main/README.md)
 
 Steps to Install ProM tool to your destop 
 
