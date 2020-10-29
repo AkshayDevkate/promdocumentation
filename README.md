@@ -85,7 +85,7 @@ Here are the Links where you can download Java 8 Supported to your systems
   [click Here!](https://www.oracle.com/java/technologies/javase/javase-jdk8-downloads.html)
       
    to download Java for Windows users 
-   [Click Here!](https://www.oracle.com/java/technologies/javase/javase-jdk8-downloads.html)
+   [Click Here!](javaWindows.pdf)
    
    
   ## Step 3: Installing ProM 6.9 all supporting packages 
