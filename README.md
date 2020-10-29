@@ -4,17 +4,17 @@
 
 ## Getting Started with opensourse ProM tool 
 
-  Step by step guide to download and run ProM 6.9 tool \n
+  Step by step guide to download and run ProM 6.9 tool 
 
   Step 1 : Download and Install Frameworks for ProM 6.9 tool. 
 
-  Step 2 : Download and Install Java 8 or higher which is required for ProM 6.9. \n
+  Step 2 : Download and Install Java 8 or higher which is required for ProM 6.9. 
   
-  Step 3 : Installation of supporting packages for ProM 6.9 tool. \n
+  Step 3 : Installation of supporting packages for ProM 6.9 tool. 
   
-  Step 4 : Comon Problems and troubleshooting.  \n
+  Step 4 : Comon Problems and troubleshooting.  
   
-  Step 5 : Start ProM 6.9 for the first time. \n
+  Step 5 : Start ProM 6.9 for the first time. 
 
 
 The Latest ProM 6.9 is targeted at researchers.
@@ -42,9 +42,8 @@ If you want to use End user release that contains less functionalities (it will 
         
    For windows operating system download the Installer from above link or post the below link in the browser tab and download the installer.
 
-```
-http://www.promtools.org/doku.php?id=prom69
-```
+> http://www.promtools.org/doku.php?id=prom69
+
 
 
 
@@ -65,11 +64,7 @@ http://www.promtools.org/doku.php?id=prom69
         
    For mac and Linux users Download one of the compressed archieves listed in following or the above link and unpack the archeiev in some folder.
    
-   
-        
-```
-http://www.promtools.org/doku.php?id=prom69
-```
+> http://www.promtools.org/doku.php?id=prom69
 
    ## Step 2: Download and Install Java 8 or higher 
 
