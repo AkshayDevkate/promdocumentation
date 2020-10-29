@@ -107,3 +107,9 @@ After installing the Packages we can start the ProM. We can start maiden run of 
 Later on you may decide add some extra packages to set of installed packages or remove some. To do so, simply start the ProM 6.9 package manager. Install or remove packages and stop ProM pakcage Manager.
 
 
+
+
+
+Project by :
+
+![Group Logo]![Screenshot_2020-10-05_at_12.34.14_PM-removebg-preview.png]
