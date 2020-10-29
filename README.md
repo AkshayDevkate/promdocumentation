@@ -82,7 +82,7 @@ Here are the Links where you can download Java 8 Supported to your systems
   [click Here!](javalinux.pdf)
        
   To download Java 8 for Mac User 
-  [click Here!](https://www.oracle.com/java/technologies/javase/javase-jdk8-downloads.html)
+  [click Here!](javaios.pdf)
       
    to download Java for Windows users 
    [Click Here!](javaWindows.pdf)
