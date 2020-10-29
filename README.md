@@ -112,4 +112,4 @@ Later on you may decide add some extra packages to set of installed packages or 
 
 Project by :
 
-![Group Logo]![Screenshot_2020-10-05_at_12.34.14_PM-removebg-preview.png]
+![Group Logo](Screenshot_2020-10-05_at_12.34.14_PM-removebg-preview.png)
