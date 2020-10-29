@@ -29,14 +29,14 @@ If you want to use End user release that contains less functionalities (it will 
   For Windows windows operating system 
     find the link to download ProMtool for 64 bits and 32 bits as well 
 
-
  Windows OS 64 bit find the file with name 
-     For Windows installer with 64 bit JRE8 
-     EXE / 98,427 KB
+     * For Windows installer with 64 bit JRE8 
+     EXE / 98,427 KB *
  
  Windows OS 32 bit find the file with name 
-     For Windows installer with 32 bit JRE8
-     EXE / 94,321 KB
+     * For Windows installer with 32 bit JRE8
+     EXE / 94,321 KB *
+      and download the files.
    
   [Click Here!](http://www.promtools.org/doku.php?id=prom69)
         
@@ -52,10 +52,14 @@ http://www.promtools.org/doku.php?id=prom69
    Find the link to download ProMTool for Mac as well as Linux systems.
    
    For Mac operating system 
-      
+    find the file name as *Mac with 64 bit JRE8 and bundle app*  
+    and download the file.
    [Click Here!](http://www.promtools.org/doku.php?id=prom69)
    
    For Linux operating system 
+    Find file name as *TAR.GZ archive (all platforms)* 
+    or
+    *Zip archive (all platforms)*
       
    [Click Here!](http://www.promtools.org/doku.php?id=prom69)
         
@@ -97,18 +101,14 @@ Here are the Links where you can download Java 8 Supported to your systems
 
 
 
+
+
   ## Step 5: Start ProM 6.9 tool for the first time. 
 
 After installing the Packages we can start the ProM. We can start maiden run of ProM 6.9. This is critical step in installation procedure, as ProM 6.9 will build cache of all plugins that if finds in any of the packages that have been installed, which takes some time. The time may be dependent on machines memroy ram and processing power. So be patient for a while. :)
 
+[Click Here!](https://github.com/AkshayDevkate/promdocumentation/blob/main/GettingStartedProm.docx) to find step by step guide to start ProM 6.9 tool. 
 
-
-
-
-
-[Click Here!] to find step by step guide to start ProM 6.9 tool. 
-
-
-
+Later on you may decide add some extra packages to set of installed packages or remove some. To do so, simply start the ProM 6.9 package manager. Install or remove packages and stop ProM pakcage Manager.
 
 
