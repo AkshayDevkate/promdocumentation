@@ -104,7 +104,7 @@ Here are the Links where you can download Java 8 Supported to your systems
 
 After installing the Packages we can start the ProM. We can start maiden run of ProM 6.9. This is critical step in installation procedure, as ProM 6.9 will build cache of all plugins that if finds in any of the packages that have been installed, which takes some time. The time may be dependent on machines memroy ram and processing power. So be patient for a while. :)
 
-[Click Here!](https://github.com/AkshayDevkate/promdocumentation/blob/main/GettingStartedProm.docx) to find step by step guide to start ProM 6.9 tool. 
+[Click Here!](gettingstartedprom.pdf) to find step by step guide to start ProM 6.9 tool. 
 
 Later on you may decide add some extra packages to set of installed packages or remove some. To do so, simply start the ProM 6.9 package manager. Install or remove packages and stop ProM pakcage Manager.
 
