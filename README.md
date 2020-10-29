@@ -2,7 +2,7 @@
 //This is an academic project for information portal if it voilates the rules of opensourse community, this repository will be taken down as soon as reported :)
 
 
-![ProM tool](Screenshot 2020-10-29 at 2.13.13 PM.png)
+![ProM tool](https://github.com/AkshayDevkate/promdocumentation/blob/main/Screenshot%202020-10-29%20at%202.13.13%20PM.png)
 
 ## Getting Started with opensourse ProM tool 
 
