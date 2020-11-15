@@ -83,7 +83,7 @@ Here are the Links where you can download Java 8 Supported to your systems
   To download Java 8 for Linux 
   [click Here!](javalinux.pdf)
        
-  To download Java 8 for Mac User 
+  To download Java 8 for MacOS User 
   [click Here!](javadownlaod.pdf)
       
    to download Java for Windows users 
@@ -94,7 +94,14 @@ Here are the Links where you can download Java 8 Supported to your systems
  
  The downloads which we do from above links contains only frameworks. These do not contain ProM 6.9 packages that contains vast mejority of plugins. Once ProM 6.9 has been downloaded and installed. The packages can be installed from 6.9 package manager. 
  
- [Click Here!](prompakcageinstall.pdf) For step by step document on package installation guide. 
+ For Windows PC step by step document on package installation guide.
+ [Click Here!](prompakcageinstall.pdf)  
+ 
+  For Linux PC step by step document on package installation guide.
+ [Click Here!](prompakcageinstall.pdf)  
+ 
+  For macOS PC step by step document on package installation guide.
+ [Click Here!](prompakcageinstall.pdf)  
  
   ## Step 4: Common problems and Trouble shooting 
 
