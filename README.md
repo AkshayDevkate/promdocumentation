@@ -131,13 +131,13 @@ Later on you may decide add some extra packages to set of installed packages or 
     
  2. Plugins which can be accessed via run tab.
    
-   a. Event Log Filtering 
+    a. Event Log Filtering 
    
-   b. Process Discovery 
+    b. Process Discovery 
    
-   c. Conformance checking 
+    c. Conformance checking 
    
-   d. Model Enhancement 
+    d. Model Enhancement 
    
   
  3. Visualizers which can be acced via Visualizers tab.
