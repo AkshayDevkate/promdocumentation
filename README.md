@@ -123,10 +123,10 @@ Later on you may decide add some extra packages to set of installed packages or 
 
   ## Step 6: Working in ProM Tool
 
-ProM platform is plugin based framework for process mining the framenwork is centered amoung three basic components 
- 1. Data Objects which lives in workspace tab.
- 2.Plugins which can be accessed via run tab.
- 3. Visualizers which can be acced via Visualizers tab.
+  ProM platform is plugin based framework for process mining the framenwork is centered amoung three basic components 
+   1. Data Objects which lives in workspace tab.[click here for step-by-step guide]!(promobject1.pdf)
+   2.Plugins which can be accessed via run tab.
+   3. Visualizers which can be acced via Visualizers tab.
 
 
 Project by :
