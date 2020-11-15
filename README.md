@@ -68,7 +68,7 @@ If you want to use End user release that contains less functionalities (it will 
 > http://www.promtools.org/doku.php?id=prom69
 
 
-  ![image](Screenshot 2020-11-15 at 4.24.50 PM.png)
+  ![image](Screenshot_2020-11-15_at_4.24.50_PM.png)
 
    ## Step 2: Download and Install Java 8 or higher 
 
