@@ -53,20 +53,23 @@ If you want to use End user release that contains less functionalities (it will 
    Find the link to download ProMTool for Mac as well as Linux systems.
    
    For Mac operating system 
-    find the file name as *Mac with 64 bit JRE8 and bundle app*  
-    and download the file.
+   find the file name as *Mac with 64 bit JRE8 and bundle app*  
+   and download the file.
    [Click Here!](http://www.promtools.org/doku.php?id=prom69)
    
    For Linux operating system 
-    Find file name as *TAR.GZ archive (all platforms)* 
-    or
-    *Zip archive (all platforms)*
+   Find file name as *TAR.GZ archive (all platforms)* 
+   or
+   *Zip archive (all platforms)*
       
    [Click Here!](http://www.promtools.org/doku.php?id=prom69)
         
    For mac and Linux users Download one of the compressed archieves listed in following or the above link and unpack the archeiev in some folder.
    
 > http://www.promtools.org/doku.php?id=prom69
+
+
+  [image!](Screenshot 2020-11-15 at 4.24.50 PM.png)
 
    ## Step 2: Download and Install Java 8 or higher 
 
