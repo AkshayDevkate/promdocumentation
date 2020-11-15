@@ -54,6 +54,7 @@ If you want to use __End user__ release that contains less functionalities (it w
    
    For __macOS__ 
     find the file name as *Mac with 64 bit JRE8 and bundle app* and download the file.
+   
    [Click Here!](http://www.promtools.org/doku.php?id=prom69)
    
    For __Linux OS__
@@ -124,9 +125,14 @@ Later on you may decide add some extra packages to set of installed packages or 
   ## Step 6: Working in ProM Tool
 
   ProM platform is plugin based framework for process mining the framenwork is centered amoung three basic components 
-   1. Data Objects which lives in workspace tab.[click here for step-by-step guide]!(promobject1.pdf)
-   2.Plugins which can be accessed via run tab.
-   3. Visualizers which can be acced via Visualizers tab.
+  
+  1. Data Objects which lives in workspace tab.
+   
+   [click here for step-by-step guide]!(promobject1.pdf)
+  
+  2.Plugins which can be accessed via run tab.
+  
+  3. Visualizers which can be acced via Visualizers tab.
 
 
 Project by :
