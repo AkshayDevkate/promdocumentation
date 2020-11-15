@@ -19,8 +19,8 @@
   Step 5 : Start ProM 6.9 for the first time. 
 
 
-The Latest ProM 6.9 is targeted at researchers.
-If you want to use End user release that contains less functionalities (it will not contain the latest research prototypes that ProM 6.9 does contain). Than navigate to getting started with [ProM Lite 1.2](https://github.com/AkshayDevkate/promdocumentation/edit/main/README.md)
+The Latest __ProM 6.9__ is targeted at __researchers__.
+If you want to use __End user__ release that contains less functionalities (it will not contain the latest research prototypes that ProM 6.9 does contain). Than navigate to getting started with __[ProM Lite 1.2](https://github.com/AkshayDevkate/promdocumentation/edit/main/README.md)__
 
 
 
@@ -28,14 +28,14 @@ If you want to use End user release that contains less functionalities (it will 
 
    Download the PromTool on your machine first according to operating system and system configuration 
 
-   For Windows windows operating system 
+   __For Windows operating system__ 
     find the link to download ProMtool for 64 bits and 32 bits as well 
 
-   Windows OS 64 bit find the file with name 
+   __Windows OS 64 bit__ find the file with name 
      *For Windows installer with 64 bit JRE8 
      EXE / 98,427 KB*
  
- Windows OS 32 bit find the file with name 
+  __Windows OS 32 bit__ find the file with name 
      *For Windows installer with 32 bit JRE8
      EXE / 94,321 KB*
       and download the files.
@@ -52,11 +52,11 @@ If you want to use End user release that contains less functionalities (it will 
    Mac and Linux operating system users. 
    Find the link to download ProMTool for Mac as well as Linux systems.
    
-   For Mac operating system 
+   For __macOS__ 
     find the file name as *Mac with 64 bit JRE8 and bundle app* and download the file.
    [Click Here!](http://www.promtools.org/doku.php?id=prom69)
    
-   For Linux operating system 
+   For __Linux OS__
     Find file name as *TAR.GZ archive (all platforms)* 
    or
    *Zip archive (all platforms)*
@@ -80,13 +80,13 @@ Downloading Java 8 is recommended while using full features of ProM tool
 Here are the Links where you can download Java 8 Supported to your systems 
 
 
-  To download Java 8 for Linux 
+  To download Java 8 for __Linux OS__ 
   [click Here!](javalinux.pdf)
        
-  To download Java 8 for MacOS User 
+  To download Java 8 for __MacOS__ User 
   [click Here!](javadownlaod.pdf)
       
-   to download Java for Windows users 
+   to download Java for __Windows OS__ users 
    [Click Here!](javaWindows.pdf)
    
    
@@ -94,13 +94,13 @@ Here are the Links where you can download Java 8 Supported to your systems
  
  The downloads which we do from above links contains only frameworks. These do not contain ProM 6.9 packages that contains vast mejority of plugins. Once ProM 6.9 has been downloaded and installed. The packages can be installed from 6.9 package manager. 
  
- For Windows PC step by step document on package installation guide.
+ For __Windows OS__ step by step document on package installation guide.
  [Click Here!](prompakcageinstall.pdf)  
  
-  For Linux PC step by step document on package installation guide.
+  For __Linux OS__ step by step document on package installation guide.
  [Click Here!](prompakcageinstall.pdf)  
  
-  For macOS PC step by step document on package installation guide.
+  For __macOS OS__ step by step document on package installation guide.
  [Click Here!](prompakcageinstall.pdf)  
  
   ## Step 4: Common problems and Trouble shooting 
@@ -113,12 +113,17 @@ Here are the Links where you can download Java 8 Supported to your systems
 
 After installing the Packages we can start the ProM. We can start maiden run of ProM 6.9. This is critical step in installation procedure, as ProM 6.9 will build cache of all plugins that if finds in any of the packages that have been installed, which takes some time. The time may be dependent on machines memroy ram and processing power. So be patient for a while. :)
 
-[Click Here!](gettingstartedprom.pdf) to find step by step guide to start ProM 6.9 tool. 
+[Click Here!](gettingstartedprom.pdf) to find step by step guide to start ProM 6.9 tool for Windows. 
+
+[Click Here!](gettingstartedprom.pdf) to find step by step guide to start ProM 6.9 tool for Linux.
+
+[Click Here!](gettingstartedprom.pdf) to find step by step guide to start ProM 6.9 tool for macOS.
 
 Later on you may decide add some extra packages to set of installed packages or remove some. To do so, simply start the ProM 6.9 package manager. Install or remove packages and stop ProM pakcage Manager.
 
+  ## Step 6: Working in ProM Tool
 
-
+ProM platform is plugin based framework for process mining the framenwork is centered amoung three basic components 
 
 
 Project by :
