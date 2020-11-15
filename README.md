@@ -129,7 +129,6 @@ Later on you may decide add some extra packages to set of installed packages or 
  1. Data Objects which lives in workspace tab.
     [click here for step-by-step guide!](Promobject1.pdf)
     
-  
  2.Plugins which can be accessed via run tab.
    
    a. Event Log Filtering 
